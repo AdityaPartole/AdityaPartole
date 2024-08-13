@@ -8,19 +8,7 @@
 ``` html
                                      		<h1> Hello world! </h1>
 ```
-<!-- <p align=center>
-<img src="https://user-images.githubusercontent.com/92905626/194618912-b6dec2bd-7515-44f8-b70a-69e8099aeba4.gif" height="400" >
-</p> -->
-<!-- <h3>Soham here!</h3>  https://user-images.githubusercontent.com/92905626/167291814-f469ad75-182b-42dd-a631-c3a7df977884.jpg 
-<img src="https://user-images.githubusercontent.com/92905626/194618912-b6dec2bd-7515-44f8-b70a-69e8099aeba4.gif" height="400" > -->
-<!--
-![image](https://user-images.githubusercontent.com/92905626/195813947-3ed0b9ef-7d83-4aba-b4b4-62924e0db510.png)
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="140"  /> -->
-<!-- ![I love coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
-<!-- 🔍 [Personal Portfolio website](https://sohamratnaparkhi.github.io/PersonalWebsite_SohamR/)
-<br>
-📑 [Personal CV](https://sohamratnaparkhi.github.io/SohamR_cv/) -->
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">&nbsp;***About me***
 
